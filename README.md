@@ -12,19 +12,13 @@
 - 🌱 Actualmente estoy aprendiendo a utilizar diferentes sistemas operativos
 - 💬Preguntame  sobre cualquier tema en general , si puedo ayudarte con gusto lo hare
 - Me pueden contactar por medio de facebook 
--
--+---------+-------+--------+-----------+--------+---------+
+
+
 | horario | Lunes | Martes | Miercoles | Jueves | Viernes |
-+---------+-------+--------+-----------+--------+---------+
-| 2 pm    | Lenguaje de Interfaz                          |
-+---------+-----------------------------------------------+
-| 3 pm    | Taller sistemas                               |
-+---------+-----------------------------------------------+
-| 4 pm    | Ecuaciones                                    |
-+---------+-----------------------------------------------+
-| 5 pm    | Arquitectura de Computo                       |
-+---------+-----------------------------------------------+
-| 6 pm    | Fundamentos de Telecomunicaciones             |
-+---------+-----------------------------------------------+
-| 7 pm    | Programacion Log y Fun                        |
-+---------+-----------------------------------------------+
+|-|-|-|-|-|-|
+| 2 pm | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz |
+| 3 pm | Taller sistemas | Taller sistemas | Taller sistemas | Taller sistemas | Taller sistemas |
+| 4 pm | Ecuaciones  | Ecuaciones  | Ecuaciones  | Ecuaciones  | Ecuaciones  |
+| 5 pm | Arq compu | Arq compu | Arq compu | Arq compu | Arq compu |
+| 6 pm | Funda de Telecom | Funda de Telecom | Funda de Telecom | Funda de Telecom | Funda de Telecom |
+| 7 pm | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun |
