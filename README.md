@@ -16,9 +16,9 @@
 
 | horario | Lunes | Martes | Miercoles | Jueves | Viernes |
 |-|-|-|-|-|-|
-| 2 pm | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz | Lenguaje de Interfaz |
-| 3 pm | Taller sistemas | Taller sistemas | Taller sistemas | Taller sistemas | Taller sistemas |
-| 4 pm | Ecuaciones  | Ecuaciones  | Ecuaciones  | Ecuaciones  | Ecuaciones  |
-| 5 pm | Arq compu | Arq compu | Arq compu | Arq compu | Arq compu |
-| 6 pm | Funda de Telecom | Funda de Telecom | Funda de Telecom | Funda de Telecom | Funda de Telecom |
-| 7 pm | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun | Progra Log y Fun |
+| 2 pm | SISTEMAS PROGRAMABLES 309| SISTEMAS PROGRAMABLES 309 | SISTEMAS PROGRAMABLES 309 | SISTEMAS PROGRAMABLES 0309 | GESTION DE PROYECTOS DE SOFTWARE 311 |
+| 3 pm | GESTION DE PROYECTOS 311| GESTION DE PROYECTOS  311| GESTION DE PROYECTOS  311| GESTION DE PROYECTOS DE SOFTWARE 311| GESTION DE PROYECTOS 311|
+| 4 pm | LENGUAJES Y AUTOMATAS II 310 | 	LENGUAJES Y AUTOMATAS II 310| LENGUAJES Y AUTOMATAS II 310| LENGUAJES Y AUTOMATAS II 310| LENGUAJES Y AUTOMATAS II 310 |
+| 5 pm | Libre | 
+| 6 pm | CONMUTACION Y ENRUTAMIENTO 309 | CONMUTACION Y ENRUTAMIENTO  309 | CONMUTACION Y ENRUTAMIENTO  309 | CONMUTACION Y ENRUTAMIENTO  309| CONMUTACION Y ENRUTAMIENTO  0309 |
+| 7 pm | TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5|
