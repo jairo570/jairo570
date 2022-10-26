@@ -27,7 +27,7 @@
 | 7 pm | TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5|
 
 ![image](logo.png)
-![image](Ky-040.gif)
+
 
 
 #### Markdown 
