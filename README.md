@@ -27,6 +27,8 @@
 | 7 pm | TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5 | TEMAS AVANZADO 9205| TEMAS AVANZADO 91L5|
 
 ![image](logo.png)
+![image](Ky-040.gif)
+
 
 #### Markdown 
 Nos sirve para agregar formatos vinculos e imagenes con facilidad en textos simple o sin formato ,nos permite dar un formato basico de texto  agregando  encabezados,  *letras cursivas*, poner **letras negritas** y listas  .Es  para mi un lenguaje que me permite  crear contenido de manera sencilla de escribir  y que es un diseño legible  y el formato es compatible con muchas plataformas (celulares,tabletas,latops ,etc.)
